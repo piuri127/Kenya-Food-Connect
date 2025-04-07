@@ -1,0 +1,909 @@
+[2025-04-02 14:39:05] Login attempt started
+[2025-04-02 14:39:05] POST data: Array
+(
+    [email] => pm@gmail.com
+    [password] => 123@Nzula
+    [user_type] => consumer
+)
+
+[2025-04-02 14:39:05] Attempting login for email: pm@gmail.com
+[2025-04-02 14:39:05] Query executed. Rows found: 0
+[2025-04-02 14:39:05] No user found with this email
+[2025-04-02 14:39:05] Login Error: Invalid email or password
+[2025-04-02 14:41:53] Login attempt started
+[2025-04-02 14:41:53] POST data: Array
+(
+    [email] => pm@gmail.com
+    [password] => 123@Nzula
+    [user_type] => consumer
+)
+
+[2025-04-02 14:41:53] Attempting login for email: pm@gmail.com
+[2025-04-02 14:41:53] Query executed. Rows found: 0
+[2025-04-02 14:41:53] No user found with this email
+[2025-04-02 14:41:53] Login Error: Invalid email or password
+[2025-04-02 14:50:37] Login attempt started
+[2025-04-02 14:50:37] POST data: Array
+(
+    [email] => pm@gmail.com
+    [password] => 123@Nzula
+    [user_type] => consumer
+)
+
+[2025-04-02 14:50:37] Attempting login for email: pm@gmail.com, User Type: consumer
+[2025-04-02 14:50:37] Query executed. Rows found: 0
+[2025-04-02 14:50:37] No user found with this email
+[2025-04-02 14:50:37] Login Error: Invalid email or password
+[2025-04-02 14:50:40] Login attempt started
+[2025-04-02 14:50:40] POST data: Array
+(
+    [email] => pm@gmail.com
+    [password] => 123@Nzula
+    [user_type] => consumer
+)
+
+[2025-04-02 14:50:40] Attempting login for email: pm@gmail.com, User Type: consumer
+[2025-04-02 14:50:40] Query executed. Rows found: 0
+[2025-04-02 14:50:40] No user found with this email
+[2025-04-02 14:50:40] Login Error: Invalid email or password
+[2025-04-02 14:50:43] Login attempt started
+[2025-04-02 14:50:43] POST data: Array
+(
+    [email] => pm@gmail.com
+    [password] => 123@Nzula
+    [user_type] => consumer
+)
+
+[2025-04-02 14:50:43] Attempting login for email: pm@gmail.com, User Type: consumer
+[2025-04-02 14:50:43] Query executed. Rows found: 0
+[2025-04-02 14:50:43] No user found with this email
+[2025-04-02 14:50:43] Login Error: Invalid email or password
+[2025-04-02 14:50:46] Login attempt started
+[2025-04-02 14:50:46] POST data: Array
+(
+    [email] => pm@gmail.com
+    [password] => 123@Nzula
+    [user_type] => consumer
+)
+
+[2025-04-02 14:50:46] Attempting login for email: pm@gmail.com, User Type: consumer
+[2025-04-02 14:50:46] Query executed. Rows found: 0
+[2025-04-02 14:50:46] No user found with this email
+[2025-04-02 14:50:46] Login Error: Invalid email or password
+[2025-04-02 14:51:23] Login attempt started
+[2025-04-02 14:51:23] POST data: Array
+(
+    [email] => fifi@gmail.com
+    [password] => 123@Fifi
+    [user_type] => consumer
+)
+
+[2025-04-02 14:51:23] Attempting login for email: fifi@gmail.com, User Type: consumer
+[2025-04-02 14:51:23] Query executed. Rows found: 0
+[2025-04-02 14:51:23] No user found with this email
+[2025-04-02 14:51:23] Login Error: Invalid email or password
+[2025-04-02 14:52:07] Login attempt started
+[2025-04-02 14:52:07] POST data: Array
+(
+    [email] => fifi@gmail.com
+    [password] => 123@Fifi
+    [user_type] => consumer
+)
+
+[2025-04-02 14:52:07] Attempting login for email: fifi@gmail.com, User Type: consumer
+[2025-04-02 14:52:07] Query executed. Rows found: 0
+[2025-04-02 14:52:07] No user found with this email
+[2025-04-02 14:52:07] Login Error: Invalid email or password
+[2025-04-02 14:52:09] Login attempt started
+[2025-04-02 14:52:09] POST data: Array
+(
+    [email] => fifi@gmail.com
+    [password] => 123@Fifi
+    [user_type] => consumer
+)
+
+[2025-04-02 14:52:09] Attempting login for email: fifi@gmail.com, User Type: consumer
+[2025-04-02 14:52:09] Query executed. Rows found: 0
+[2025-04-02 14:52:09] No user found with this email
+[2025-04-02 14:52:09] Login Error: Invalid email or password
+[2025-04-02 14:54:36] Login attempt started
+[2025-04-02 14:54:36] POST data: Array
+(
+    [email] => vivi9@gmail.com
+    [password] => 12viona
+    [user_type] => consumer
+)
+
+[2025-04-02 14:54:36] Attempting login for email: vivi9@gmail.com, User Type: consumer
+[2025-04-02 14:54:36] Query executed. Rows found: 1
+[2025-04-02 14:54:36] User found: Array
+(
+    [id] => 4
+    [name] => viona murugi
+    [email] => vivi9@gmail.com
+    [password] => $2y$10$qW2vflhgQDichCVnng0GWeuFxZGV29lA/7LmjI6XOif2e8bR.lIku
+)
+
+[2025-04-02 14:54:36] Password verified successfully
+[2025-04-02 15:11:50] Login attempt started
+[2025-04-02 15:11:50] POST data: Array
+(
+    [email] => vivi9@gmail.com
+    [password] => 12viona
+    [user_type] => vendor
+)
+
+[2025-04-02 15:11:50] Attempting login for email: vivi9@gmail.com, User Type: vendor
+[2025-04-02 15:11:50] Login Error: Unknown column 'name' in 'field list'
+[2025-04-02 15:12:01] Login attempt started
+[2025-04-02 15:12:01] POST data: Array
+(
+    [email] => puritymbithe05@gmail.com
+    [password] => 4321@Piuri
+    [user_type] => vendor
+)
+
+[2025-04-02 15:12:01] Attempting login for email: puritymbithe05@gmail.com, User Type: vendor
+[2025-04-02 15:12:01] Login Error: Unknown column 'name' in 'field list'
+[2025-04-02 15:12:09] Login attempt started
+[2025-04-02 15:12:09] POST data: Array
+(
+    [email] => admin@kenyaconnect.co.ke
+    [password] => 4321@Piuri
+    [user_type] => vendor
+)
+
+[2025-04-02 15:12:09] Attempting login for email: admin@kenyaconnect.co.ke, User Type: vendor
+[2025-04-02 15:12:09] Login Error: Unknown column 'name' in 'field list'
+[2025-04-02 15:42:01] Login attempt started
+[2025-04-02 15:42:01] POST data: Array
+(
+    [email] => vivi9@gmail.com
+    [password] => 12viona
+    [user_type] => consumer
+)
+
+[2025-04-02 15:42:01] Attempting login for email: vivi9@gmail.com, User Type: consumer
+[2025-04-02 15:42:01] Query executed. Rows found: 1
+[2025-04-02 15:42:01] User found: Array
+(
+    [id] => 4
+    [name] => viona murugi
+    [email] => vivi9@gmail.com
+    [password] => $2y$10$qW2vflhgQDichCVnng0GWeuFxZGV29lA/7LmjI6XOif2e8bR.lIku
+)
+
+[2025-04-02 15:42:01] Password verified successfully
+[2025-04-02 15:42:34] Login attempt started
+[2025-04-02 15:42:34] POST data: Array
+(
+    [email] => vivi9@gmail.com
+    [password] => 12viona
+    [user_type] => vendor
+)
+
+[2025-04-02 15:42:34] Attempting login for email: vivi9@gmail.com, User Type: vendor
+[2025-04-02 15:42:34] Login Error: Unknown column 'name' in 'field list'
+[2025-04-02 15:43:04] Login attempt started
+[2025-04-02 15:43:04] POST data: Array
+(
+    [email] => puritymbithe05@gmail.com
+    [password] => 4321@Piuri
+    [user_type] => vendor
+)
+
+[2025-04-02 15:43:04] Attempting login for email: puritymbithe05@gmail.com, User Type: vendor
+[2025-04-02 15:43:04] Login Error: Unknown column 'name' in 'field list'
+[2025-04-02 15:57:44] Login attempt started
+[2025-04-02 15:57:44] POST data: Array
+(
+    [email] => pm@gmail.com
+    [password] => 123@Nzula
+    [user_type] => vendor
+)
+
+[2025-04-02 15:57:44] Attempting login for email: pm@gmail.com, User Type: vendor
+[2025-04-02 15:57:44] Query executed. Rows found: 0
+[2025-04-02 15:57:44] No user found with this email
+[2025-04-02 15:57:44] Login Error: Invalid email or password
+[2025-04-02 15:57:46] Login attempt started
+[2025-04-02 15:57:46] POST data: Array
+(
+    [email] => pm@gmail.com
+    [password] => 123@Nzula
+    [user_type] => vendor
+)
+
+[2025-04-02 15:57:46] Attempting login for email: pm@gmail.com, User Type: vendor
+[2025-04-02 15:57:46] Query executed. Rows found: 0
+[2025-04-02 15:57:46] No user found with this email
+[2025-04-02 15:57:46] Login Error: Invalid email or password
+[2025-04-02 15:57:48] Login attempt started
+[2025-04-02 15:57:48] POST data: Array
+(
+    [email] => pm@gmail.com
+    [password] => 123@Nzula
+    [user_type] => vendor
+)
+
+[2025-04-02 15:57:48] Attempting login for email: pm@gmail.com, User Type: vendor
+[2025-04-02 15:57:48] Query executed. Rows found: 0
+[2025-04-02 15:57:48] No user found with this email
+[2025-04-02 15:57:48] Login Error: Invalid email or password
+[2025-04-02 15:58:17] Login attempt started
+[2025-04-02 15:58:17] POST data: Array
+(
+    [email] => pm@gmail.com
+    [password] => 123@Nzula
+    [user_type] => vendor
+)
+
+[2025-04-02 15:58:17] Attempting login for email: pm@gmail.com, User Type: vendor
+[2025-04-02 15:58:17] Query executed. Rows found: 0
+[2025-04-02 15:58:17] No user found with this email
+[2025-04-02 15:58:17] Login Error: Invalid email or password
+[2025-04-02 15:58:20] Login attempt started
+[2025-04-02 15:58:20] POST data: Array
+(
+    [email] => pm@gmail.com
+    [password] => 123@Nzula
+    [user_type] => vendor
+)
+
+[2025-04-02 15:58:20] Attempting login for email: pm@gmail.com, User Type: vendor
+[2025-04-02 15:58:20] Query executed. Rows found: 0
+[2025-04-02 15:58:20] No user found with this email
+[2025-04-02 15:58:20] Login Error: Invalid email or password
+[2025-04-02 16:00:08] Login attempt started
+[2025-04-02 16:00:08] POST data: Array
+(
+    [email] => pm@gmail.com
+    [password] => 123@Nzula
+    [user_type] => vendor
+)
+
+[2025-04-02 16:00:08] Attempting login for email: pm@gmail.com, User Type: vendor
+[2025-04-02 16:00:08] Query executed. Rows found: 0
+[2025-04-02 16:00:08] No user found with this email
+[2025-04-02 16:00:08] Login Error: Invalid email or password
+[2025-04-02 16:00:10] Login attempt started
+[2025-04-02 16:00:11] POST data: Array
+(
+    [email] => pm@gmail.com
+    [password] => 123@Nzula
+    [user_type] => vendor
+)
+
+[2025-04-02 16:00:11] Attempting login for email: pm@gmail.com, User Type: vendor
+[2025-04-02 16:00:11] Query executed. Rows found: 0
+[2025-04-02 16:00:11] No user found with this email
+[2025-04-02 16:00:11] Login Error: Invalid email or password
+[2025-04-02 16:00:31] Login attempt started
+[2025-04-02 16:00:31] POST data: Array
+(
+    [email] => puritymbithe05@gmail.com
+    [password] => 4321@Piuri
+    [user_type] => vendor
+)
+
+[2025-04-02 16:00:31] Attempting login for email: puritymbithe05@gmail.com, User Type: vendor
+[2025-04-02 16:00:31] Query executed. Rows found: 1
+[2025-04-02 16:00:31] User found: Array
+(
+    [id] => 1
+    [business_name] => The Blend Lab
+    [email] => puritymbithe05@gmail.com
+    [password] => $2y$10$YRqFhm3EZI138NAmTVzGveJ18wnZjgChUTTdFJ1azaHDNxX9gLuSu
+    [status] => active
+)
+
+[2025-04-02 16:00:31] Password verified successfully
+[2025-04-02 16:01:03] Login attempt started
+[2025-04-02 16:01:03] POST data: Array
+(
+    [email] => puritymbithe05@gmail.com
+    [password] => 4321@Piuri
+    [user_type] => vendor
+)
+
+[2025-04-02 16:01:03] Attempting login for email: puritymbithe05@gmail.com, User Type: vendor
+[2025-04-02 16:01:03] Query executed. Rows found: 1
+[2025-04-02 16:01:03] User found: Array
+(
+    [id] => 1
+    [business_name] => The Blend Lab
+    [email] => puritymbithe05@gmail.com
+    [password] => $2y$10$YRqFhm3EZI138NAmTVzGveJ18wnZjgChUTTdFJ1azaHDNxX9gLuSu
+    [status] => active
+)
+
+[2025-04-02 16:01:03] Password verified successfully
+[2025-04-02 16:05:22] Login attempt started
+[2025-04-02 16:05:22] POST data: Array
+(
+    [email] => puritymbithe05@gmail.com
+    [password] => 4321@Piuri
+    [user_type] => vendor
+)
+
+[2025-04-02 16:05:22] Attempting login for email: puritymbithe05@gmail.com, User Type: vendor
+[2025-04-02 16:05:22] Query executed. Rows found: 1
+[2025-04-02 16:05:22] User found: Array
+(
+    [id] => 1
+    [business_name] => The Blend Lab
+    [email] => puritymbithe05@gmail.com
+    [password] => $2y$10$YRqFhm3EZI138NAmTVzGveJ18wnZjgChUTTdFJ1azaHDNxX9gLuSu
+    [status] => active
+)
+
+[2025-04-02 16:05:22] Password verified successfully
+[2025-04-02 16:05:36] Login attempt started
+[2025-04-02 16:05:36] POST data: Array
+(
+    [email] => puritymbithe05@gmail.com
+    [password] => 4321@Piuri
+    [user_type] => vendor
+)
+
+[2025-04-02 16:05:36] Attempting login for email: puritymbithe05@gmail.com, User Type: vendor
+[2025-04-02 16:05:36] Query executed. Rows found: 1
+[2025-04-02 16:05:36] User found: Array
+(
+    [id] => 1
+    [business_name] => The Blend Lab
+    [email] => puritymbithe05@gmail.com
+    [password] => $2y$10$YRqFhm3EZI138NAmTVzGveJ18wnZjgChUTTdFJ1azaHDNxX9gLuSu
+    [status] => active
+)
+
+[2025-04-02 16:05:36] Password verified successfully
+[2025-04-02 16:05:46] Login attempt started
+[2025-04-02 16:05:46] POST data: Array
+(
+    [email] => puritymbithe05@gmail.com
+    [password] => 4321@Piuri
+    [user_type] => vendor
+)
+
+[2025-04-02 16:05:46] Attempting login for email: puritymbithe05@gmail.com, User Type: vendor
+[2025-04-02 16:05:46] Query executed. Rows found: 1
+[2025-04-02 16:05:46] User found: Array
+(
+    [id] => 1
+    [business_name] => The Blend Lab
+    [email] => puritymbithe05@gmail.com
+    [password] => $2y$10$YRqFhm3EZI138NAmTVzGveJ18wnZjgChUTTdFJ1azaHDNxX9gLuSu
+    [status] => active
+)
+
+[2025-04-02 16:05:46] Password verified successfully
+[2025-04-02 16:15:57] Login attempt started
+[2025-04-02 16:15:57] POST data: Array
+(
+    [email] => puritymbithe05@gmail.com
+    [password] => 4321@Piuri
+    [user_type] => vendor
+)
+
+[2025-04-02 16:15:57] Attempting login for email: puritymbithe05@gmail.com, User Type: vendor
+[2025-04-02 16:15:57] Query executed. Rows found: 1
+[2025-04-02 16:15:57] User found: Array
+(
+    [id] => 1
+    [business_name] => The Blend Lab
+    [email] => puritymbithe05@gmail.com
+    [password] => $2y$10$YRqFhm3EZI138NAmTVzGveJ18wnZjgChUTTdFJ1azaHDNxX9gLuSu
+    [status] => active
+)
+
+[2025-04-02 16:15:58] Password verified successfully
+[2025-04-02 16:19:23] Login attempt started
+[2025-04-02 16:19:23] POST data: Array
+(
+    [email] => puritymbithe05@gmail.com
+    [password] => 4321@Piuri
+    [user_type] => vendor
+)
+
+[2025-04-02 16:19:23] Attempting login for email: puritymbithe05@gmail.com, User Type: vendor
+[2025-04-02 16:19:23] Query executed. Rows found: 1
+[2025-04-02 16:19:23] User found: Array
+(
+    [id] => 1
+    [business_name] => The Blend Lab
+    [email] => puritymbithe05@gmail.com
+    [password] => $2y$10$YRqFhm3EZI138NAmTVzGveJ18wnZjgChUTTdFJ1azaHDNxX9gLuSu
+    [status] => active
+)
+
+[2025-04-02 16:19:24] Password verified successfully
+[2025-04-02 16:24:30] Login attempt started
+[2025-04-02 16:24:30] POST data: Array
+(
+    [email] => puritymbithe05@gmail.com
+    [password] => 4321@Piuri
+    [user_type] => vendor
+)
+
+[2025-04-02 16:24:30] Attempting login for email: puritymbithe05@gmail.com, User Type: vendor
+[2025-04-02 16:24:30] Query executed. Rows found: 1
+[2025-04-02 16:24:30] User found: Array
+(
+    [id] => 1
+    [business_name] => The Blend Lab
+    [email] => puritymbithe05@gmail.com
+    [password] => $2y$10$YRqFhm3EZI138NAmTVzGveJ18wnZjgChUTTdFJ1azaHDNxX9gLuSu
+    [status] => active
+)
+
+[2025-04-02 16:24:30] Password verified successfully
+[2025-04-02 16:41:24] Login attempt started
+[2025-04-02 16:41:24] POST data: Array
+(
+    [email] => puritymbithe05@gmail.com
+    [password] => 4321@Piuri
+    [user_type] => consumer
+)
+
+[2025-04-02 16:41:24] Attempting login for email: puritymbithe05@gmail.com, User Type: consumer
+[2025-04-02 16:41:24] Query executed. Rows found: 1
+[2025-04-02 16:41:24] User found: Array
+(
+    [id] => 3
+    [name] => Purity Mbithe
+    [email] => puritymbithe05@gmail.com
+    [password] => $2y$10$1UVwIFVbQXAEnWVoa9SBf.oEJbI21sXJ5JMBx8wSCiwbLs7ZvWviK
+    [status] => active
+)
+
+[2025-04-02 16:41:24] Password verified successfully
+[2025-04-02 16:41:52] Login attempt started
+[2025-04-02 16:41:52] POST data: Array
+(
+    [email] => puritymbithe05@gmail.com
+    [password] => 4321@Piuri
+    [user_type] => vendor
+)
+
+[2025-04-02 16:41:52] Attempting login for email: puritymbithe05@gmail.com, User Type: vendor
+[2025-04-02 16:41:52] Query executed. Rows found: 1
+[2025-04-02 16:41:52] User found: Array
+(
+    [id] => 1
+    [business_name] => The Blend Lab
+    [email] => puritymbithe05@gmail.com
+    [password] => $2y$10$YRqFhm3EZI138NAmTVzGveJ18wnZjgChUTTdFJ1azaHDNxX9gLuSu
+    [status] => active
+)
+
+[2025-04-02 16:41:53] Password verified successfully
+[2025-04-02 20:17:32] Login attempt started
+[2025-04-02 20:17:32] POST data: Array
+(
+    [email] => mercy@gmail.com
+    [password] => 123@Mercy
+    [user_type] => vendor
+)
+
+[2025-04-02 20:17:32] Attempting login for email: mercy@gmail.com, User Type: vendor
+[2025-04-02 20:17:32] Query executed. Rows found: 1
+[2025-04-02 20:17:32] User found: Array
+(
+    [id] => 2
+    [business_name] => Dubois
+    [email] => mercy@gmail.com
+    [password] => $2y$10$r6Spi317niOwrhYDF5Z6cek3JOWrvMSVb05FG.xdCIhqTf2sT66i.
+    [status] => active
+)
+
+[2025-04-02 20:17:32] Password verified successfully
+[2025-04-02 21:03:49] Login attempt started
+[2025-04-02 21:03:49] POST data: Array
+(
+    [email] => mercy@gmail.com
+    [password] => 123@Mercy
+    [user_type] => consumer
+)
+
+[2025-04-02 21:03:49] Attempting login for email: mercy@gmail.com, User Type: consumer
+[2025-04-02 21:03:49] Query executed. Rows found: 0
+[2025-04-02 21:03:49] No user found with this email
+[2025-04-02 21:03:49] Login Error: Invalid email or password
+[2025-04-02 21:04:08] Login attempt started
+[2025-04-02 21:04:08] POST data: Array
+(
+    [email] => mutheu@gmail.com
+    [password] => Mutheu@12
+    [user_type] => consumer
+)
+
+[2025-04-02 21:04:08] Attempting login for email: mutheu@gmail.com, User Type: consumer
+[2025-04-02 21:04:08] Query executed. Rows found: 1
+[2025-04-02 21:04:08] User found: Array
+(
+    [id] => 6
+    [name] => mutheu
+    [email] => mutheu@gmail.com
+    [password] => $2y$10$q70S7BUNY5OHT7NLD/3WKuLOa9tzkTZetso2cd7dqUPhoxsrRR7gK
+    [status] => active
+)
+
+[2025-04-02 21:04:08] Password verified successfully
+[2025-04-02 21:10:15] Login attempt started
+[2025-04-02 21:10:15] POST data: Array
+(
+    [email] => mercy@gmail.com
+    [password] => 123@Mercy
+    [user_type] => vendor
+)
+
+[2025-04-02 21:10:15] Attempting login for email: mercy@gmail.com, User Type: vendor
+[2025-04-02 21:10:15] Query executed. Rows found: 1
+[2025-04-02 21:10:15] User found: Array
+(
+    [id] => 2
+    [business_name] => Dubois
+    [email] => mercy@gmail.com
+    [password] => $2y$10$r6Spi317niOwrhYDF5Z6cek3JOWrvMSVb05FG.xdCIhqTf2sT66i.
+    [status] => active
+)
+
+[2025-04-02 21:10:16] Password verified successfully
+[2025-04-02 21:19:43] Login attempt started
+[2025-04-02 21:19:44] POST data: Array
+(
+    [email] => mercy@gmail.com
+    [password] => 123@Mercy
+    [user_type] => consumer
+)
+
+[2025-04-02 21:19:44] Attempting login for email: mercy@gmail.com, User Type: consumer
+[2025-04-02 21:19:44] Query executed. Rows found: 0
+[2025-04-02 21:19:44] No user found with this email
+[2025-04-02 21:19:44] Login Error: Invalid email or password
+[2025-04-02 21:19:51] Login attempt started
+[2025-04-02 21:19:51] POST data: Array
+(
+    [email] => mutheu@gmail.com
+    [password] => Mutheu@12
+    [user_type] => consumer
+)
+
+[2025-04-02 21:19:51] Attempting login for email: mutheu@gmail.com, User Type: consumer
+[2025-04-02 21:19:51] Query executed. Rows found: 1
+[2025-04-02 21:19:51] User found: Array
+(
+    [id] => 6
+    [name] => mutheu
+    [email] => mutheu@gmail.com
+    [password] => $2y$10$q70S7BUNY5OHT7NLD/3WKuLOa9tzkTZetso2cd7dqUPhoxsrRR7gK
+    [status] => active
+)
+
+[2025-04-02 21:19:51] Password verified successfully
+[2025-04-02 21:39:17] Login attempt started
+[2025-04-02 21:39:17] POST data: Array
+(
+    [email] => mutheu@gmail.com
+    [password] => Mutheu@12
+    [user_type] => vendor
+)
+
+[2025-04-02 21:39:17] Attempting login for email: mutheu@gmail.com, User Type: vendor
+[2025-04-02 21:39:17] Query executed. Rows found: 0
+[2025-04-02 21:39:17] No user found with this email
+[2025-04-02 21:39:17] Login Error: Invalid email or password
+[2025-04-02 21:39:24] Login attempt started
+[2025-04-02 21:39:24] POST data: Array
+(
+    [email] => mercy@gmail.com
+    [password] => 123@Mercy
+    [user_type] => vendor
+)
+
+[2025-04-02 21:39:24] Attempting login for email: mercy@gmail.com, User Type: vendor
+[2025-04-02 21:39:24] Query executed. Rows found: 1
+[2025-04-02 21:39:24] User found: Array
+(
+    [id] => 2
+    [business_name] => Dubois
+    [email] => mercy@gmail.com
+    [password] => $2y$10$r6Spi317niOwrhYDF5Z6cek3JOWrvMSVb05FG.xdCIhqTf2sT66i.
+    [status] => active
+)
+
+[2025-04-02 21:39:24] Password verified successfully
+[2025-04-02 21:41:04] Login attempt started
+[2025-04-02 21:41:04] POST data: Array
+(
+    [email] => mercy@gmail.com
+    [password] => 123@Mercy
+    [user_type] => consumer
+)
+
+[2025-04-02 21:41:04] Attempting login for email: mercy@gmail.com, User Type: consumer
+[2025-04-02 21:41:04] Query executed. Rows found: 0
+[2025-04-02 21:41:04] No user found with this email
+[2025-04-02 21:41:04] Login Error: Invalid email or password
+[2025-04-02 21:41:11] Login attempt started
+[2025-04-02 21:41:11] POST data: Array
+(
+    [email] => mutheu@gmail.com
+    [password] => Mutheu@12
+    [user_type] => consumer
+)
+
+[2025-04-02 21:41:11] Attempting login for email: mutheu@gmail.com, User Type: consumer
+[2025-04-02 21:41:11] Query executed. Rows found: 1
+[2025-04-02 21:41:11] User found: Array
+(
+    [id] => 6
+    [name] => mutheu
+    [email] => mutheu@gmail.com
+    [password] => $2y$10$q70S7BUNY5OHT7NLD/3WKuLOa9tzkTZetso2cd7dqUPhoxsrRR7gK
+    [status] => active
+)
+
+[2025-04-02 21:41:11] Password verified successfully
+[2025-04-02 21:49:43] Login attempt started
+[2025-04-02 21:49:43] POST data: Array
+(
+    [email] => mercy@gmail.com
+    [password] => 123@Mercy
+    [user_type] => vendor
+)
+
+[2025-04-02 21:49:43] Attempting login for email: mercy@gmail.com, User Type: vendor
+[2025-04-02 21:49:43] Query executed. Rows found: 1
+[2025-04-02 21:49:43] User found: Array
+(
+    [id] => 2
+    [business_name] => Dubois
+    [email] => mercy@gmail.com
+    [password] => $2y$10$r6Spi317niOwrhYDF5Z6cek3JOWrvMSVb05FG.xdCIhqTf2sT66i.
+    [status] => active
+)
+
+[2025-04-02 21:49:43] Password verified successfully
+[2025-04-02 23:02:53] Login attempt started
+[2025-04-02 23:02:53] POST data: Array
+(
+    [email] => mercy@gmail.com
+    [password] => 123@Mercy
+    [user_type] => vendor
+)
+
+[2025-04-02 23:02:53] Attempting login for email: mercy@gmail.com, User Type: vendor
+[2025-04-02 23:02:53] Query executed. Rows found: 1
+[2025-04-02 23:02:53] User found: Array
+(
+    [id] => 2
+    [business_name] => Dubois
+    [email] => mercy@gmail.com
+    [password] => $2y$10$r6Spi317niOwrhYDF5Z6cek3JOWrvMSVb05FG.xdCIhqTf2sT66i.
+    [status] => active
+)
+
+[2025-04-02 23:02:53] Password verified successfully
+[2025-04-02 23:07:13] Login attempt started
+[2025-04-02 23:07:13] POST data: Array
+(
+    [email] => mercy@gmail.com
+    [password] => 123@Mercy
+    [user_type] => vendor
+)
+
+[2025-04-02 23:07:13] Attempting login for email: mercy@gmail.com, User Type: vendor
+[2025-04-02 23:07:13] Query executed. Rows found: 1
+[2025-04-02 23:07:13] User found: Array
+(
+    [id] => 2
+    [business_name] => Dubois
+    [email] => mercy@gmail.com
+    [password] => $2y$10$r6Spi317niOwrhYDF5Z6cek3JOWrvMSVb05FG.xdCIhqTf2sT66i.
+    [status] => active
+)
+
+[2025-04-02 23:07:13] Password verified successfully
+[2025-04-02 23:16:40] Login attempt started
+[2025-04-02 23:16:40] POST data: Array
+(
+    [email] => mutheu@gmail.com
+    [password] => Mutheu@12
+    [user_type] => consumer
+)
+
+[2025-04-02 23:16:40] Attempting login for email: mutheu@gmail.com, User Type: consumer
+[2025-04-02 23:16:40] Query executed. Rows found: 1
+[2025-04-02 23:16:40] User found: Array
+(
+    [id] => 6
+    [name] => mutheu
+    [email] => mutheu@gmail.com
+    [password] => $2y$10$q70S7BUNY5OHT7NLD/3WKuLOa9tzkTZetso2cd7dqUPhoxsrRR7gK
+    [status] => active
+)
+
+[2025-04-02 23:16:41] Password verified successfully
+[2025-04-03 12:48:37] Login attempt started
+[2025-04-03 12:48:37] POST data: Array
+(
+    [email] => mercy@gmail.com
+    [password] => 123@Mercy
+    [user_type] => vendor
+)
+
+[2025-04-03 12:48:37] Attempting login for email: mercy@gmail.com, User Type: vendor
+[2025-04-03 12:48:37] Login Error: Table 'kenya_connect.vendors' doesn't exist in engine
+[2025-04-03 12:55:15] Login attempt started
+[2025-04-03 12:55:15] POST data: Array
+(
+    [email] => mutheu@gmail.com
+    [password] => Mutheu@12
+    [user_type] => vendor
+)
+
+[2025-04-03 12:55:15] Attempting login for email: mutheu@gmail.com, User Type: vendor
+[2025-04-03 12:55:15] Login Error: Table 'kenya_connect.vendors' doesn't exist in engine
+[2025-04-03 12:55:17] Login attempt started
+[2025-04-03 12:55:17] POST data: Array
+(
+    [email] => mutheu@gmail.com
+    [password] => Mutheu@12
+    [user_type] => vendor
+)
+
+[2025-04-03 12:55:17] Attempting login for email: mutheu@gmail.com, User Type: vendor
+[2025-04-03 12:55:17] Login Error: Table 'kenya_connect.vendors' doesn't exist in engine
+[2025-04-03 12:55:30] Login attempt started
+[2025-04-03 12:55:30] POST data: Array
+(
+    [email] => mercy@gmail.com
+    [password] => 123@Mercy
+    [user_type] => vendor
+)
+
+[2025-04-03 12:55:30] Attempting login for email: mercy@gmail.com, User Type: vendor
+[2025-04-03 12:55:30] Login Error: Table 'kenya_connect.vendors' doesn't exist in engine
+[2025-04-03 13:08:15] Login attempt started
+[2025-04-03 13:08:15] POST data: Array
+(
+    [email] => mutheu@gmail.com
+    [password] => Mutheu@12
+    [user_type] => consumer
+)
+
+[2025-04-03 13:08:15] Attempting login for email: mutheu@gmail.com, User Type: consumer
+[2025-04-03 13:08:15] Login Error: Table 'kenya_connect.consumers' doesn't exist in engine
+[2025-04-03 13:14:27] Login attempt started
+[2025-04-03 13:14:27] POST data: Array
+(
+    [email] => mutheu@gmail.com
+    [password] => Mutheu@12
+    [user_type] => consumer
+)
+
+[2025-04-03 13:14:27] Attempting login for email: mutheu@gmail.com, User Type: consumer
+[2025-04-03 13:14:27] Login Error: Table 'kenya_connect.consumers' doesn't exist in engine
+[2025-04-03 13:28:16] Login attempt started
+[2025-04-03 13:28:16] POST data: Array
+(
+    [email] => mutheu@gmail.com
+    [password] => Mutheu@12
+    [user_type] => vendor
+)
+
+[2025-04-03 13:28:16] Attempting login for email: mutheu@gmail.com, User Type: vendor
+[2025-04-03 13:28:16] Query executed. Rows found: 0
+[2025-04-03 13:28:16] No user found with this email
+[2025-04-03 13:28:16] Login Error: Invalid email or password
+[2025-04-03 13:43:17] Login attempt started
+[2025-04-03 13:43:17] POST data: Array
+(
+    [email] => mercy@gmail.com
+    [password] => 123@Mercy
+    [user_type] => vendor
+)
+
+[2025-04-03 13:43:17] Attempting login for email: mercy@gmail.com, User Type: vendor
+[2025-04-03 13:43:17] Query executed. Rows found: 1
+[2025-04-03 13:43:17] User found: Array
+(
+    [id] => 1
+    [business_name] => Dubois
+    [email] => mercy@gmail.com
+    [password] => $2y$10$I.DpfBOESAzUTnH3IeeI0emDmT6mEpMktpzOMZbxwVpVQLCGWGjEW
+    [status] => pending
+)
+
+[2025-04-03 13:43:17] Account is not active. Status: pending
+[2025-04-03 13:43:17] Login Error: Your account is pending. Please contact support.
+[2025-04-03 13:43:24] Login attempt started
+[2025-04-03 13:43:24] POST data: Array
+(
+    [email] => puritymbithe05@gmail.com
+    [password] => 4321@Piuri
+    [user_type] => vendor
+)
+
+[2025-04-03 13:43:24] Attempting login for email: puritymbithe05@gmail.com, User Type: vendor
+[2025-04-03 13:43:24] Query executed. Rows found: 0
+[2025-04-03 13:43:24] No user found with this email
+[2025-04-03 13:43:24] Login Error: Invalid email or password
+[2025-04-03 13:43:30] Login attempt started
+[2025-04-03 13:43:30] POST data: Array
+(
+    [email] => mercy@gmail.com
+    [password] => 123@Mercy
+    [user_type] => vendor
+)
+
+[2025-04-03 13:43:30] Attempting login for email: mercy@gmail.com, User Type: vendor
+[2025-04-03 13:43:30] Query executed. Rows found: 1
+[2025-04-03 13:43:30] User found: Array
+(
+    [id] => 1
+    [business_name] => Dubois
+    [email] => mercy@gmail.com
+    [password] => $2y$10$I.DpfBOESAzUTnH3IeeI0emDmT6mEpMktpzOMZbxwVpVQLCGWGjEW
+    [status] => pending
+)
+
+[2025-04-03 13:43:30] Account is not active. Status: pending
+[2025-04-03 13:43:30] Login Error: Your account is pending. Please contact support.
+[2025-04-03 13:43:47] Login attempt started
+[2025-04-03 13:43:47] POST data: Array
+(
+    [email] => mercy@gmail.com
+    [password] => 123@Mercy
+    [user_type] => vendor
+)
+
+[2025-04-03 13:43:47] Attempting login for email: mercy@gmail.com, User Type: vendor
+[2025-04-03 13:43:47] Query executed. Rows found: 1
+[2025-04-03 13:43:47] User found: Array
+(
+    [id] => 1
+    [business_name] => Dubois
+    [email] => mercy@gmail.com
+    [password] => $2y$10$I.DpfBOESAzUTnH3IeeI0emDmT6mEpMktpzOMZbxwVpVQLCGWGjEW
+    [status] => pending
+)
+
+[2025-04-03 13:43:47] Account is not active. Status: pending
+[2025-04-03 13:43:47] Login Error: Your account is pending. Please contact support.
+[2025-04-03 13:43:53] Login attempt started
+[2025-04-03 13:43:53] POST data: Array
+(
+    [email] => puritymbithe05@gmail.com
+    [password] => 4321@Piuri
+    [user_type] => vendor
+    [remember] => on
+)
+
+[2025-04-03 13:43:53] Attempting login for email: puritymbithe05@gmail.com, User Type: vendor
+[2025-04-03 13:43:53] Query executed. Rows found: 0
+[2025-04-03 13:43:53] No user found with this email
+[2025-04-03 13:43:53] Login Error: Invalid email or password
+[2025-04-03 13:51:15] Login attempt started
+[2025-04-03 13:51:15] POST data: Array
+(
+    [email] => mercy@gmail.com
+    [password] => 123@Mercy
+    [user_type] => vendor
+)
+
+[2025-04-03 13:51:15] Attempting login for email: mercy@gmail.com, User Type: vendor
+[2025-04-03 13:51:15] Query executed. Rows found: 1
+[2025-04-03 13:51:15] User found: Array
+(
+    [id] => 1
+    [business_name] => Dubois
+    [email] => mercy@gmail.com
+    [password] => $2y$10$I.DpfBOESAzUTnH3IeeI0emDmT6mEpMktpzOMZbxwVpVQLCGWGjEW
+    [status] => pending
+)
+
+[2025-04-03 13:51:15] Account is not active. Status: pending
+[2025-04-03 13:51:15] Login Error: Your account is pending. Please contact support.

@@ -1,0 +1,207 @@
+[2025-03-29 18:07:38] Registration process started
+[2025-03-29 18:07:38] POST data: Array
+(
+    [name] => Purity Mbithe
+    [email] => puritymbithe05@gmail.com
+    [phone] => puritymbithe05@gmail.com
+    [password] => 4321@Piuri
+    [confirm-password] => 4321@Piuri
+    [city] => chuka
+    [area] => ndagani
+    [preferences] => 
+    [terms] => on
+)
+
+[2025-03-29 18:07:38] Processing POST request
+[2025-03-29 18:07:38] User type: 
+[2025-03-29 18:07:38] Email: puritymbithe05@gmail.com, Phone: puritymbithe05@gmail.com, City: chuka, Area: ndagani
+[2025-03-29 18:07:38] Password hashed successfully
+[2025-03-29 18:07:38] Consumer data: Name: Purity Mbithe, Preferences: 
+[2025-03-29 18:07:38] About to execute SQL insert
+[2025-03-29 18:07:38] SUCCESS: New user created with ID: 3
+[2025-03-29 18:07:38] Session set. Redirecting to dashboard
+[2025-03-29 18:09:01] Registration process started
+[2025-03-29 18:09:01] POST data: Array
+(
+    [name] => viona murugi
+    [email] => vivi9@gmail.com
+    [phone] => 0742455262
+    [password] => 12viona
+    [confirm-password] => 12viona
+    [city] => chuka
+    [area] => ndagani
+    [preferences] => 
+    [terms] => on
+)
+
+[2025-03-29 18:09:01] Processing POST request
+[2025-03-29 18:09:01] User type: 
+[2025-03-29 18:09:01] Email: vivi9@gmail.com, Phone: 0742455262, City: chuka, Area: ndagani
+[2025-03-29 18:09:01] Password hashed successfully
+[2025-03-29 18:09:01] Consumer data: Name: viona murugi, Preferences: 
+[2025-03-29 18:09:01] About to execute SQL insert
+[2025-03-29 18:09:01] SUCCESS: New user created with ID: 4
+[2025-03-29 18:09:01] Session set. Redirecting to dashboard
+[2025-03-29 18:12:06] Registration process started
+[2025-03-29 18:12:06] POST data: Array
+(
+    [business-name] => The Blend Lab
+    [contact-person] => Purity Mbithe
+    [email] => puritymbithe05@gmail.com
+    [phone] => puritymbithe05@gmail.com
+    [password] => 4321@Piuri
+    [confirm-password] => 4321@Piuri
+    [city] => chuka
+    [area] => ndagani
+    [business-type] => other
+    [business-description] => 
+    [license] => 
+    [terms] => on
+)
+
+[2025-03-29 18:12:06] Processing POST request
+[2025-03-29 18:12:06] User type: 
+[2025-03-29 18:12:06] Email: puritymbithe05@gmail.com, Phone: puritymbithe05@gmail.com, City: chuka, Area: ndagani
+[2025-03-29 18:12:06] ERROR: Email already exists: puritymbithe05@gmail.com
+[2025-03-29 18:12:26] Registration process started
+[2025-03-29 18:12:26] POST data: Array
+(
+    [business-name] => The Blend Lab
+    [contact-person] => Purity Mbithe
+    [email] => puritymbithe05@gmail.com
+    [phone] => puritymbithe05@gmail.com
+    [password] => 4321@Piuri
+    [confirm-password] => 4321@Piuri
+    [city] => chuka
+    [area] => ndagani
+    [business-type] => other
+    [business-description] => 
+    [license] => 
+    [terms] => on
+)
+
+[2025-03-29 18:12:26] Processing POST request
+[2025-03-29 18:12:26] User type: 
+[2025-03-29 18:12:26] Email: puritymbithe05@gmail.com, Phone: puritymbithe05@gmail.com, City: chuka, Area: ndagani
+[2025-03-29 18:12:26] ERROR: Email already exists: puritymbithe05@gmail.com
+[2025-03-29 18:18:39] Registration process started
+[2025-03-29 18:18:39] POST data: Array
+(
+    [name] => The blend lab
+    [email] => puritymbthe00@gmail.com
+    [phone] => 0742455262
+    [password] => 4321@Piuri
+    [confirm-password] => 4321@Piuri
+    [city] => Chuka
+    [area] => Ndagani
+    [preferences] => 
+    [terms] => on
+)
+
+[2025-03-29 18:18:39] Processing POST request
+[2025-03-29 18:18:39] User type: 
+[2025-03-29 18:18:39] Email: puritymbthe00@gmail.com, Phone: 0742455262, City: Chuka, Area: Ndagani
+[2025-03-29 18:18:39] Password hashed successfully
+[2025-03-29 18:18:39] Consumer data: Name: The blend lab, Preferences: 
+[2025-03-29 18:18:39] About to execute SQL insert
+[2025-03-29 18:18:39] SUCCESS: New user created with ID: 5
+[2025-03-29 18:18:39] Session set. Redirecting to dashboard
+[2025-03-29 18:24:05] Processing POST request
+[2025-03-29 18:24:05] ERROR: Invalid user type
+[2025-03-29 18:30:14] Processing POST request
+[2025-03-29 18:30:14] User type received: 
+[2025-03-29 18:30:14] ERROR: Invalid user type
+[2025-03-29 18:31:32] Processing POST request
+[2025-03-29 18:31:32] User type received: 
+[2025-03-29 18:31:32] ERROR: Invalid user type
+[2025-03-29 18:36:12] Processing POST request
+[2025-03-29 18:36:12] User type received: 
+[2025-03-29 18:36:12] ERROR: Invalid user type
+[2025-03-29 18:43:32] Registration process started
+[2025-03-29 18:43:32] POST data: Array
+(
+    [business-name] => The blend lab
+    [contact-person] => purity
+    [email] => puritymbthe05@gmail.com
+    [phone] => 0742455262
+    [password] => 4321@Piuri
+    [confirm-password] => 4321@Piuri
+    [city] => Chuka
+    [area] => Ndagani
+    [business-type] => other
+    [business-description] => 
+    [license] => 
+    [terms] => on
+)
+
+[2025-03-29 18:43:32] Processing POST request
+[2025-03-29 18:43:32] User type: 
+[2025-03-29 18:43:32] ERROR: Invalid user_type received - 
+[2025-03-29 18:45:16] Registration process started
+[2025-03-29 18:45:16] POST data: Array
+(
+    [user_type] => vendor
+    [business-name] => The Blend Lab
+    [contact-person] => Purity
+    [email] => puritymbithe05@gmail.com
+    [phone] => 0742455262
+    [password] => 4321@Piuri
+    [confirm-password] => 4321@Piuri
+    [city] => Chuka
+    [area] => Ndagani
+    [business-type] => other
+    [business-description] => 
+    [terms] => on
+)
+
+[2025-03-29 18:45:16] Processing POST request
+[2025-03-29 18:45:16] User type: vendor
+[2025-03-29 18:45:16] Email: puritymbithe05@gmail.com, Phone: 0742455262, City: Chuka, Area: Ndagani
+[2025-03-29 18:45:16] Using table: vendors
+[2025-03-29 18:45:16] Password hashed successfully
+[2025-03-29 18:45:16] Vendor data: Business: The Blend Lab, Contact: Purity, Type: other
+[2025-03-29 18:45:16] SUCCESS: Redirecting to vendor/dashboard.php
+[2025-03-29 18:48:56] Registration process started
+[2025-03-29 18:48:56] POST data: Array
+(
+    [user_type] => vendor
+    [business-name] => The Blend Lab
+    [contact-person] => Purity
+    [email] => puritymbithe05@gmail.com
+    [phone] => 0742455262
+    [password] => 4321@Piuri
+    [confirm-password] => 4321@Piuri
+    [city] => Chuka
+    [area] => Ndagani
+    [business-type] => other
+    [business-description] => 
+    [terms] => on
+)
+
+[2025-03-29 18:48:56] Processing POST request
+[2025-03-29 18:48:56] User type: vendor
+[2025-03-29 18:48:56] Email: puritymbithe05@gmail.com, Phone: 0742455262, City: Chuka, Area: Ndagani
+[2025-03-29 18:48:56] Using table: vendors
+[2025-03-29 18:48:56] ERROR: Email already exists: puritymbithe05@gmail.com
+[2025-03-29 18:49:26] Registration process started
+[2025-03-29 18:49:26] POST data: Array
+(
+    [user_type] => vendor
+    [business-name] => The Blend Lab
+    [contact-person] => Purity
+    [email] => puritymbithe05@gmail.com
+    [phone] => 0742455262
+    [password] => 4321@Piuri
+    [confirm-password] => 4321@Piuri
+    [city] => Chuka
+    [area] => Ndagani
+    [business-type] => other
+    [business-description] => 
+    [terms] => on
+)
+
+[2025-03-29 18:49:26] Processing POST request
+[2025-03-29 18:49:26] User type: vendor
+[2025-03-29 18:49:26] Email: puritymbithe05@gmail.com, Phone: 0742455262, City: Chuka, Area: Ndagani
+[2025-03-29 18:49:26] Using table: vendors
+[2025-03-29 18:49:26] ERROR: Email already exists: puritymbithe05@gmail.com

@@ -1,0 +1,358 @@
+[2025-04-02 20:14:57] Registration process started
+[2025-04-02 20:14:57] Full POST data: Array
+(
+    [user_type] => vendor
+    [business-name] => Dubois
+    [contact-person] => Mercy
+    [email] => mercy@gmail.com
+    [phone] => 0742455262
+    [password] => 123@Mercy
+    [confirm-password] => 123@Mercy
+    [city] => Nairobi
+    [area] => CBD
+    [business-type] => other
+    [business-description] => 
+    [terms] => on
+)
+
+[2025-04-02 20:14:57] User type: vendor
+[2025-04-02 20:14:57] Password hashed successfully
+[2025-04-02 20:14:57] Successful registration for mercy@gmail.com
+[2025-04-02 21:00:35] Registration process started
+[2025-04-02 21:00:35] Full POST data: Array
+(
+    [user_type] => vendor
+    [business-name] => baddie basics
+    [contact-person] => Sarah Nzula
+    [email] => sarahn@gmail.com
+    [phone] => +254726539858
+    [password] => Sarah@23
+    [confirm-password] => Sarah@23
+    [city] => chuka
+    [area] => Ndagani
+    [business-type] => other
+    [business-description] => 
+    [terms] => on
+)
+
+[2025-04-02 21:00:35] User type: vendor
+[2025-04-02 21:00:36] Password hashed successfully
+[2025-04-02 21:00:36] Successful registration for sarahn@gmail.com
+[2025-04-02 21:03:15] Registration process started
+[2025-04-02 21:03:15] Full POST data: Array
+(
+    [user_type] => consumer
+    [name] => mutheu
+    [email] => mutheu@gmail.com
+    [phone] => 07203040500
+    [password] => Mutheu@12
+    [confirm-password] => Mutheu@12
+    [city] => Nairobi
+    [area] => CBD
+    [preferences] => dairy,meat,grains
+    [terms] => on
+)
+
+[2025-04-02 21:03:15] User type: consumer
+[2025-04-02 21:03:16] Password hashed successfully
+[2025-04-02 21:03:16] Successful registration for mutheu@gmail.com
+[2025-04-03 13:22:06] Registration process started
+[2025-04-03 13:22:06] Full POST data: Array
+(
+    [user_type] => vendor
+    [business-name] => Dubois
+    [contact-person] => Mercy
+    [email] => mercy@gmail.com
+    [phone] => 0742455262
+    [password] => 123@Mercy
+    [confirm-password] => 123@Mercy
+    [city] => Nairobi
+    [area] => CBD
+    [business-type] => other
+    [business-description] => 
+    [terms] => on
+)
+
+[2025-04-03 13:22:06] User type: vendor
+[2025-04-03 13:22:06] Password hashed successfully
+[2025-04-03 13:22:06] Registration Error: Unknown column 'profile_image' in 'field list'
+[2025-04-03 13:22:06] Full POST Data: Array
+(
+    [user_type] => vendor
+    [business-name] => Dubois
+    [contact-person] => Mercy
+    [email] => mercy@gmail.com
+    [phone] => 0742455262
+    [password] => 123@Mercy
+    [confirm-password] => 123@Mercy
+    [city] => Nairobi
+    [area] => CBD
+    [business-type] => other
+    [business-description] => 
+    [terms] => on
+)
+
+[2025-04-03 13:23:46] Registration process started
+[2025-04-03 13:23:46] Full POST data: Array
+(
+    [user_type] => vendor
+    [business-name] => Dubois
+    [contact-person] => carol
+    [email] => pm@gmail.com
+    [phone] => 0742455262
+    [password] => 123@Piuri
+    [confirm-password] => 123@Piuri
+    [city] => Nairobi
+    [area] => CBD
+    [business-type] => other
+    [business-description] => 
+    [terms] => on
+)
+
+[2025-04-03 13:23:46] User type: vendor
+[2025-04-03 13:23:46] Password hashed successfully
+[2025-04-03 13:23:46] Registration Error: Unknown column 'profile_image' in 'field list'
+[2025-04-03 13:23:46] Full POST Data: Array
+(
+    [user_type] => vendor
+    [business-name] => Dubois
+    [contact-person] => carol
+    [email] => pm@gmail.com
+    [phone] => 0742455262
+    [password] => 123@Piuri
+    [confirm-password] => 123@Piuri
+    [city] => Nairobi
+    [area] => CBD
+    [business-type] => other
+    [business-description] => 
+    [terms] => on
+)
+
+[2025-04-03 13:28:48] Registration process started
+[2025-04-03 13:28:48] Full POST data: Array
+(
+    [user_type] => vendor
+    [business-name] => Dubois
+    [contact-person] => Mercy
+    [email] => mercy@gmail.com
+    [phone] => 0742455262
+    [password] => 123@Mercy
+    [confirm-password] => 123@Mercy
+    [city] => Nairobi
+    [area] => CBD
+    [business-type] => other
+    [business-description] => 
+    [terms] => on
+)
+
+[2025-04-03 13:28:48] User type: vendor
+[2025-04-03 13:28:48] Password hashed successfully
+[2025-04-03 13:28:48] Registration Error: Unknown column 'profile_image' in 'field list'
+[2025-04-03 13:28:48] Full POST Data: Array
+(
+    [user_type] => vendor
+    [business-name] => Dubois
+    [contact-person] => Mercy
+    [email] => mercy@gmail.com
+    [phone] => 0742455262
+    [password] => 123@Mercy
+    [confirm-password] => 123@Mercy
+    [city] => Nairobi
+    [area] => CBD
+    [business-type] => other
+    [business-description] => 
+    [terms] => on
+)
+
+[2025-04-03 13:34:07] Registration process started
+[2025-04-03 13:34:07] Full POST data: Array
+(
+    [user_type] => vendor
+    [business-name] => Dubois
+    [contact-person] => Mercy
+    [email] => mercy@gmail.com
+    [phone] => 0742455262
+    [password] => 123@Mercy
+    [confirm-password] => 123@Mercy
+    [city] => Nairobi
+    [area] => CBD
+    [business-type] => other
+    [business-description] => 
+    [terms] => on
+)
+
+[2025-04-03 13:34:07] User type: vendor
+[2025-04-03 13:34:07] Password hashed successfully
+[2025-04-03 13:36:57] Registration process started
+[2025-04-03 13:36:57] Full POST data: Array
+(
+    [user_type] => vendor
+    [business-name] => Dubois
+    [contact-person] => Mercy
+    [email] => mercy@gmail.com
+    [phone] => 0742455262
+    [password] => 123@Mercy
+    [confirm-password] => 123@Mercy
+    [city] => Nairobi
+    [area] => CBD
+    [business-type] => other
+    [business-description] => 
+    [terms] => on
+)
+
+[2025-04-03 13:36:57] User type: vendor
+[2025-04-03 13:36:57] Password hashed successfully
+[2025-04-03 13:37:02] Registration process started
+[2025-04-03 13:37:02] Full POST data: Array
+(
+    [user_type] => vendor
+    [business-name] => Dubois
+    [contact-person] => Mercy
+    [email] => mercy@gmail.com
+    [phone] => 0742455262
+    [password] => 123@Mercy
+    [confirm-password] => 123@Mercy
+    [city] => Nairobi
+    [area] => CBD
+    [business-type] => other
+    [business-description] => 
+    [terms] => on
+)
+
+[2025-04-03 13:37:02] User type: vendor
+[2025-04-03 13:37:02] Password hashed successfully
+[2025-04-03 13:37:36] Registration process started
+[2025-04-03 13:37:36] Full POST data: Array
+(
+    [user_type] => vendor
+    [business-name] => Dubois
+    [contact-person] => Mercy
+    [email] => mercy@gmail.com
+    [phone] => 0742455262
+    [password] => 123@Mercy
+    [confirm-password] => 123@Mercy
+    [city] => Nairobi
+    [area] => CBD
+    [business-type] => other
+    [business-description] => 
+    [terms] => on
+)
+
+[2025-04-03 13:37:36] User type: vendor
+[2025-04-03 13:37:36] Password hashed successfully
+[2025-04-03 13:39:27] Registration process started
+[2025-04-03 13:39:27] Full POST data: Array
+(
+    [user_type] => vendor
+    [business-name] => Dubois
+    [contact-person] => Mercy
+    [email] => mercy@gmail.com
+    [phone] => 0742455262
+    [password] => 123@Mercy
+    [confirm-password] => 123@Mercy
+    [city] => Nairobi
+    [area] => CBD
+    [business-type] => other
+    [business-description] => 
+    [terms] => on
+)
+
+[2025-04-03 13:39:27] User type: vendor
+[2025-04-03 13:39:27] Password hashed successfully
+[2025-04-03 13:39:27] Successful registration for mercy@gmail.com
+[2025-04-03 13:41:26] Registration process started
+[2025-04-03 13:41:26] Full POST data: Array
+(
+    [user_type] => consumer
+    [name] => Purity Mbithe
+    [email] => puritymbithe05@gmail.com
+    [phone] => +254742455262
+    [password] => 4321@Piuri
+    [confirm-password] => 4321@Piuri
+    [city] => chuka
+    [area] => Ndagani
+    [preferences] => vegetables,dairy
+    [terms] => on
+)
+
+[2025-04-03 13:41:26] User type: consumer
+[2025-04-03 13:41:26] Password hashed successfully
+[2025-04-03 13:41:26] Successful registration for puritymbithe05@gmail.com
+[2025-04-03 14:02:53] Registration process started
+[2025-04-03 14:02:53] Full POST data: Array
+(
+    [user_type] => vendor
+    [business-name] => The Blend Lab
+    [contact-person] => Purity Mbithe
+    [email] => puritymbithe05@gmail.com
+    [phone] => +254742455262
+    [password] => 123@Piuri
+    [confirm-password] => 123@Piuri
+    [city] => chuka
+    [area] => Ndagani
+    [business-type] => other
+    [business-description] => 
+    [terms] => on
+)
+
+[2025-04-03 14:02:53] User type: vendor
+[2025-04-03 14:02:53] Password hashed successfully
+[2025-04-03 14:02:53] Successful registration for puritymbithe05@gmail.com
+[2025-04-06 10:38:10] Registration process started
+[2025-04-06 10:38:10] Full POST data: Array
+(
+    [user_type] => vendor
+    [business-name] => baddie basics
+    [contact-person] => Sarah Nzula
+    [email] => sarahn@gmail.com
+    [phone] => +254726539858
+    [password] => 123@Baddie
+    [confirm-password] => 123@Baddie
+    [city] => chuka
+    [area] => slaughter
+    [business-type] => other
+    [business-description] => 
+    [terms] => on
+)
+
+[2025-04-06 10:38:10] User type: vendor
+[2025-04-06 10:38:10] Password hashed successfully
+[2025-04-06 10:38:10] Successful registration for sarahn@gmail.com
+[2025-04-06 11:29:31] Registration process started
+[2025-04-06 11:29:31] Full POST data: Array
+(
+    [user_type] => consumer
+    [name] => Daniel Langat
+    [email] => dn@gmail.com
+    [phone] => 0712345678
+    [password] => 123@Daniel
+    [confirm-password] => 123@Daniel
+    [city] => Nairobi
+    [area] => CBD
+    [preferences] => vegetables,dairy
+    [terms] => on
+)
+
+[2025-04-06 11:29:31] User type: consumer
+[2025-04-06 11:29:31] Password hashed successfully
+[2025-04-06 11:29:31] Successful registration for dn@gmail.com
+[2025-04-06 19:47:35] Registration process started
+[2025-04-06 19:47:35] Full POST data: Array
+(
+    [user_type] => vendor
+    [business-name] => kenyaone
+    [contact-person] => jumper
+    [email] => jumper@gmail.com
+    [phone] => +254709789987
+    [password] => @Spatoh254
+    [confirm-password] => @Spatoh254
+    [city] => chuka
+    [area] => slaughter
+    [business-type] => grocery
+    [business-description] => skuma
+    [terms] => on
+)
+
+[2025-04-06 19:47:35] User type: vendor
+[2025-04-06 19:47:35] Password hashed successfully
+[2025-04-06 19:47:35] Successful registration for jumper@gmail.com

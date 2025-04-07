@@ -1,0 +1,119 @@
+[2025-04-02 20:28:52] Product Error: Unknown column 'original_price' in 'field list'
+[2025-04-02 20:28:52] POST Data: Array
+(
+    [action] => add
+    [vendor_id] => 2
+    [product_name] => githeri
+    [category] => beverages
+    [quantity] => 10
+    [unit] => kg
+    [original_price] => 1000
+    [discounted_price] => 900
+    [expiry_date] => 2025-04-17
+    [availability] => available
+    [description] => more energy from githeri
+    [storage_instructions] => store in a fridge
+)
+
+[2025-04-02 20:52:27] Product Error: Unknown column 'original_price' in 'field list'
+[2025-04-02 20:52:27] POST Data: Array
+(
+    [action] => add
+    [vendor_id] => 2
+    [product_name] => githeri
+    [category] => beverages
+    [quantity] => 10
+    [unit] => kg
+    [original_price] => 1000
+    [discounted_price] => 900
+    [expiry_date] => 2025-04-17
+    [availability] => available
+    [description] => stronger with githeri
+    [storage_instructions] => cool dry place
+)
+
+[2025-04-02 20:53:53] Product Error: Unknown column 'original_price' in 'field list'
+[2025-04-02 20:53:53] POST Data: Array
+(
+    [action] => add
+    [vendor_id] => 2
+    [product_name] => githeri
+    [category] => beverages
+    [quantity] => 10
+    [unit] => kg
+    [original_price] => 1000
+    [discounted_price] => 900
+    [expiry_date] => 2025-04-17
+    [availability] => available
+    [description] => come for strength
+    [storage_instructions] => in a fridge
+)
+
+[2025-04-02 20:54:39] Product Error: Unknown column 'original_price' in 'field list'
+[2025-04-02 20:54:39] POST Data: Array
+(
+    [action] => add
+    [vendor_id] => 2
+    [product_name] => githeri
+    [category] => beverages
+    [quantity] => 10
+    [unit] => kg
+    [original_price] => 1000
+    [discounted_price] => 900
+    [expiry_date] => 2025-04-17
+    [availability] => available
+    [description] => strength
+    [storage_instructions] => 
+)
+
+[2025-04-02 20:55:34] Product Error: Unknown column 'original_price' in 'field list'
+[2025-04-02 20:55:34] POST Data: Array
+(
+    [action] => add
+    [vendor_id] => 2
+    [product_name] => githeri
+    [category] => beverages
+    [quantity] => 10
+    [unit] => kg
+    [original_price] => 1000
+    [discounted_price] => 900
+    [expiry_date] => 2025-04-17
+    [availability] => available
+    [description] => dry place
+    [storage_instructions] => fridge
+)
+
+[2025-04-02 20:57:31] Product Error: Unknown column 'original_price' in 'field list'
+[2025-04-02 20:57:31] POST Data: Array
+(
+    [action] => add
+    [vendor_id] => 2
+    [product_name] => githeri
+    [category] => beverages
+    [quantity] => 10
+    [unit] => kg
+    [original_price] => 1000
+    [discounted_price] => 900
+    [expiry_date] => 2025-04-17
+    [availability] => available
+    [description] => fresh from the kitchen
+    [storage_instructions] => fridge
+)
+
+[2025-04-02 21:14:27] Product Error: Unknown column 'original_price' in 'field list'
+[2025-04-02 21:14:27] POST Data: Array
+(
+    [action] => add
+    [vendor_id] => 2
+    [product_name] => githeri
+    [category] => beverages
+    [quantity] => 10
+    [unit] => package
+    [original_price] => 1000
+    [discounted_price] => 900
+    [expiry_date] => 2025-04-17
+    [availability] => available
+    [description] => wery healthy
+    [storage_instructions] => 
+)
+
